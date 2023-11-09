@@ -20,5 +20,6 @@ Hey there, never ever get out of here without _"starring"_ my repo, If you did s
 
 Haaha..., Just cracked a bad joke, chill  I am noob and I don't even know computer networks...
 
-Good RUSTING bro-->If you are bioligical male
-Good RUSTING babes-->If you are bioligical female
+GOOD RUSTING!!!
+
+for more clarity and command over rust please refer to rust-langbook at https://doc.rust-lang.org/stable/book/
